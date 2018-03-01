@@ -19,3 +19,4 @@ function dec(a) {
 function makeInt(string) {
   return string.a
 }
+function preserveDecimal() {
