@@ -19,6 +19,3 @@ function dec(a) {
 function makeInt(string) {
   return string.a
 }
-function makeInt(0) { 
- return ()
-}
