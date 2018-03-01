@@ -19,6 +19,6 @@ function dec(a) {
 function makeInt(string) {
   return string.a
 }
-function preserveDecimal(isNaN) { 
+function preserveDecimal(false) { 
  return true 
 }
