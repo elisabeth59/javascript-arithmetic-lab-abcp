@@ -19,6 +19,6 @@ function dec(a) {
 function makeInt(string) {
   return string.a
 }
-function parseFloat(NaN) { 
+function preserveDecimal() { 
  return true 
 }
