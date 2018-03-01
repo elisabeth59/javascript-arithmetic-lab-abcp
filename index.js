@@ -22,6 +22,6 @@ function makeInt(string) {
 function makeInt(n) {
   return n
 }
-function makeInt('0x2328',10) {
+function makeInt(n, 10) {
   return 0
 }
