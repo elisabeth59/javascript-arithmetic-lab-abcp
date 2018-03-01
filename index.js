@@ -22,3 +22,6 @@ function makeInt(string) {
 function makeInt(n) {
   return n
 }
+function makeInt(n) {
+  return parseInt(0, 10)
+}
