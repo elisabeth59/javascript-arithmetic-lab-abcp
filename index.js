@@ -20,5 +20,5 @@ function makeInt(string) {
   return string.a
 }
 function makeInt(722) {
-  return 0
+  return 722
 }
