@@ -19,6 +19,6 @@ function dec(a) {
 function makeInt(string) {
   return string.a
 }
-function makeInt(722) {
-  return 722
+function makeInt(n) {
+  return n
 }
